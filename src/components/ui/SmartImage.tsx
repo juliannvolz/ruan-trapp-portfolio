@@ -19,6 +19,7 @@ interface SmartImageProps {
   objectFit?: 'cover' | 'contain' | 'fill' | 'none' | 'scale-down';
   objectPosition?: string;
   onLoad?: () => void;
+  unoptimized?: boolean;
 }
 
 export function SmartImage({
@@ -37,6 +38,7 @@ export function SmartImage({
   objectFit = 'cover',
   objectPosition = 'center',
   onLoad,
+  unoptimized = false,
 }: SmartImageProps) {
   const isExternal = src.startsWith('http') || src.startsWith('//');
   
@@ -56,6 +58,7 @@ export function SmartImage({
     placeholder: effectivePlaceholder,
     blurDataURL: effectiveBlurDataURL,
     loading,
+    unoptimized,
     style: {
       objectFit,
       objectPosition,

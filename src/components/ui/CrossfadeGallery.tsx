@@ -29,8 +29,10 @@ export function CrossfadeGallery({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isHovered, setIsHovered] = useState(false);
   const [prefersReduced, setPrefersReduced] = useState(false);
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    setMounted(true);
     const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
     setPrefersReduced(mediaQuery.matches);
     const handler = (e: MediaQueryListEvent) => setPrefersReduced(e.matches);
@@ -94,13 +96,14 @@ export function CrossfadeGallery({
             fill
             priority={currentIndex === 0}
             sizes="100vw"
+            unoptimized
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
         </motion.div>
       </AnimatePresence>
 
-      {showArrows && images.length > 1 && (
+      {mounted && showArrows && images.length > 1 && (
         <>
           <button
             onClick={goToPrev}
@@ -139,7 +142,7 @@ export function CrossfadeGallery({
         </>
       )}
 
-      {showDots && images.length > 1 && (
+      {mounted && showDots && images.length > 1 && (
         <div
           className={cn(
             'absolute bottom-4 left-1/2 -translate-x-1/2 z-10 flex gap-2',

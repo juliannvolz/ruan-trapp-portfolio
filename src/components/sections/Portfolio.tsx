@@ -167,14 +167,15 @@ export function Portfolio() {
                     role="button"
                     aria-label={`Ver ${work.title} em tamanho maior`}
                   >
-                    <div className="relative aspect-[4/5] overflow-hidden h-full">
-                      <SmartImage
-                        src={work.src}
-                        alt={work.title}
-                        fill
-                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                        className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-115"
-                      />
+<div className="relative aspect-[4/5] overflow-hidden h-full">
+                       <SmartImage
+                         src={work.src}
+                         alt={work.title}
+                         fill
+                         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                         unoptimized
+                         className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-115"
+                       />
                       <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                     </div>
                     <div className="absolute inset-0 flex flex-col items-center justify-center p-4 md:p-6 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
@@ -244,6 +245,7 @@ export function Portfolio() {
               fill
               className="w-full h-auto object-cover"
               priority
+              unoptimized
             />
             <div className="absolute bottom-0 left-0 right-0 p-6 md:p-8 bg-gradient-to-t from-black/90 via-transparent to-transparent">
               <h3 id="modal-title" className="text-xl md:text-2xl font-bold text-white mb-2">{selectedWork.title}</h3>
