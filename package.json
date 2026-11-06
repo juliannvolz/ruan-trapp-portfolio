@@ -6,11 +6,13 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "images:optimize": "node scripts/optimize-images.js",
-    "images:convert-heic": "node scripts/convert-heic.js"
+    "images:convert-heic": "node scripts/convert-heic.js",
+    "generate:assets": "node scripts/generate-assets.js"
   },
   "dependencies": {
     "clsx": "^2.1.1",
@@ -32,6 +34,7 @@
     "eslint": "^9.15.0",
     "eslint-config-next": "15.0.3",
     "heic-convert": "^2.1.0",
+    "next-sitemap": "^4.2.3",
     "postcss": "^8.4.49",
     "sharp": "^0.33.5",
     "tailwindcss": "^4.0.0",

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ruantrapp.com
+
+# Sitemaps
+Sitemap: https://ruantrapp.com/sitemap.xml

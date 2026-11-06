@@ -3,6 +3,7 @@ import { Archivo_Black, Space_Grotesk, JetBrains_Mono } from 'next/font/google';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://ruantrapp.com'),
   title: 'Ruan Trapp — Artista Visual, Muralista & Tatuador',
   description: 'Graffiti, caligrafia gótica e calligraffiti de Jaraguá do Sul (SC). Murais, telas e letreiros com a força da arte de rua.',
   keywords: ['Ruan Trapp', 'graffiti', 'caligrafia', 'calligraffiti', 'muralista', 'tatuador', 'Jaraguá do Sul', 'arte urbana', 'street art'],

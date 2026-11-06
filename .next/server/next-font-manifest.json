@@ -1,1 +1,17 @@
-{"pages":{},"app":{},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":false}
+{
+  "app": {
+    "[project]/src/app/_not-found/page": [
+      "static/media/a180f7dc2e9f5b7d.p.1ewykk74tw0il.woff2",
+      "static/media/237858b39a32779d.p.2cyn07wtgehh0.woff2",
+      "static/media/53897e768d329f66.p.3t6q91iet4nsy.woff2"
+    ],
+    "[project]/src/app/page": [
+      "static/media/a180f7dc2e9f5b7d.p.1ewykk74tw0il.woff2",
+      "static/media/237858b39a32779d.p.2cyn07wtgehh0.woff2",
+      "static/media/53897e768d329f66.p.3t6q91iet4nsy.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

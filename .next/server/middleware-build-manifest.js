@@ -1,1 +1,54 @@
-self.__BUILD_MANIFEST={polyfillFiles:["static/chunks/polyfills-42372ed130431b0a.js"],devFiles:[],ampDevFiles:[],lowPriorityFiles:[],rootMainFiles:["static/chunks/webpack-24a267d9a34a8e10.js","static/chunks/4bd1b696-b4d4c3868257e762.js","static/chunks/517-d61941ceaabc73d9.js","static/chunks/main-app-1e532ab71f17effd.js"],rootMainFilesTree:{},pages:{"/_app":["static/chunks/webpack-24a267d9a34a8e10.js","static/chunks/framework-0d635b52335dc518.js","static/chunks/main-b703d29c763deed2.js","static/chunks/pages/_app-d23763e3e6c904ff.js"],"/_error":["static/chunks/webpack-24a267d9a34a8e10.js","static/chunks/framework-0d635b52335dc518.js","static/chunks/main-b703d29c763deed2.js","static/chunks/pages/_error-9b7125ad1a1e68fa.js"]},ampFirstPages:[]},self.__BUILD_MANIFEST.lowPriorityFiles=["/static/"+process.env.__NEXT_BUILD_ID+"/_buildManifest.js",,"/static/"+process.env.__NEXT_BUILD_ID+"/_ssgManifest.js"];
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0cz1d0mv5g_q7.js"
+  ],
+  "lowPriorityFiles": [
+    "static/KKKmXGuf9w8Cpwnl6DzrO/_buildManifest.js",
+    "static/KKKmXGuf9w8Cpwnl6DzrO/_ssgManifest.js",
+    "static/KKKmXGuf9w8Cpwnl6DzrO/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/0kqziy-7_gy73.js",
+    "static/chunks/395glp5--7qza.js",
+    "static/chunks/3jn_x8ihwq16e.js",
+    "static/chunks/turbopack-2u1d16houkiyo.js"
+  ],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {
+    "/page": {
+      "otherChunks": [
+        "static/chunks/0kqziy-7_gy73.js",
+        "static/chunks/395glp5--7qza.js",
+        "static/chunks/3jn_x8ihwq16e.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_not-found/page": {
+      "otherChunks": [
+        "static/chunks/0kqziy-7_gy73.js",
+        "static/chunks/395glp5--7qza.js",
+        "static/chunks/3jn_x8ihwq16e.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_global-error/page": {
+      "otherChunks": [
+        "static/chunks/0kqziy-7_gy73.js",
+        "static/chunks/395glp5--7qza.js",
+        "static/chunks/3jn_x8ihwq16e.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    }
+  },
+  "chunkLoadingGlobal": "TURBOPACK"
+};
