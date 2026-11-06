@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ave-caminho-artes",
+    "src": "/images/ave-caminho-artes.webp",
+    "srcSet": "/images/ave-caminho-artes-w640.webp 640w, /images/ave-caminho-artes-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoPABQAPzmGuVQ/qSWjMAgD8CcJZwCo9C4CAAD+z++yA3yg55YRyU2YAAA="
+  },
+  {
+    "id": "caligra-cliente-pronto",
+    "src": "/images/caligra-cliente-pronto.webp",
+    "srcSet": "/images/caligra-cliente-pronto-w640.webp 640w",
+    "width": 720,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAgCdASoLABQAPzmGuVO+qSWisAgD0CcJZwAAifQAAP7qCuv6YtB/qAAAAA=="
+  },
+  {
+    "id": "caligra-grafite",
+    "src": "/images/caligra-grafite.webp",
+    "srcSet": "/images/caligra-grafite-w640.webp 640w, /images/caligra-grafite-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAgCdASoPABQAPzmGulQ0qSWssAgCkCcJaQAAhNCAAP6ybayMnd7bxcAAAA=="
+  },
+  {
+    "id": "caligra-parede-azul",
+    "src": "/images/caligra-parede-azul.webp",
+    "srcSet": "/images/caligra-parede-azul-w640.webp 640w, /images/caligra-parede-azul-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAgCdASoPABQAPzmGulQ0qSWjMAgCkCcJZwAAfKAAAP7hFLH8CyuKQf19AWxM7gAAAA=="
+  },
+  {
+    "id": "caligra-parede-azul2",
+    "src": "/images/caligra-parede-azul2.webp",
+    "srcSet": "/images/caligra-parede-azul2-w640.webp 640w, /images/caligra-parede-azul2-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAgCdASoPABQAPzmEuVO0qKWoMAgCkCcJZwAAhJUAAP7HyfTM8kpsxIp3i4AA"
+  },
+  {
+    "id": "caligra-parede-branca",
+    "src": "/images/caligra-parede-branca.webp",
+    "srcSet": "/images/caligra-parede-branca-w640.webp 640w, /images/caligra-parede-branca-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABQAwCdASoPABQAPzmMu1S0qaYosAgCkCcJaQDMHEL1Q1ruAAD8Xc14FIncAA=="
+  },
+  {
+    "id": "caligrafite-abstrato",
+    "src": "/images/caligrafite-abstrato.webp",
+    "srcSet": "/images/caligrafite-abstrato-w640.webp 640w",
+    "width": 720,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAgCdASoLABQAPzmGuVO+qSWisAgD0CcJYwCo9C0kAADkM98h/TD7Zt9AksuOkAAAAA=="
+  },
+  {
+    "id": "caligrafite-cliente",
+    "src": "/images/caligrafite-cliente.webp",
+    "srcSet": "/images/caligrafite-cliente-w640.webp 640w",
+    "width": 720,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABQAwCdASoLABQAPzmIu1Q+qSYjMAgD0CcJZwDBzA/bvktPgAD9DFYKPW2/AQ4vgAA="
+  },
+  {
+    "id": "caligrafite-studio-tattoo",
+    "src": "/images/caligrafite-studio-tattoo.webp",
+    "srcSet": "/images/caligrafite-studio-tattoo-w640.webp 640w, /images/caligrafite-studio-tattoo-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoPABQAPzmIulQ/qSWkMAgD8CcJZwDE2C2xAAD+q1djBSAq4ml+suLcAAA="
+  },
+  {
+    "id": "caligrafite-studio",
+    "src": "/images/caligrafite-studio.webp",
+    "srcSet": "/images/caligrafite-studio-w640.webp 640w, /images/caligrafite-studio-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAgCdASoPABQAPzmGulQvKSWjMAgB4CcJaQAAfKAAAP7r7vPWuXYQAAA="
+  },
+  {
+    "id": "caminho-das-artes-principal",
+    "src": "/images/caminho-das-artes-principal.webp",
+    "srcSet": "/images/caminho-das-artes-principal-w640.webp 640w, /images/caminho-das-artes-principal-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAgCdASoPABQAPzmGulQvKSWjMAgB4CcJQBWABb3AAP6Of8TNM3Wg1Mt3wAAA"
+  },
+  {
+    "id": "captacao-caminho-artes",
+    "src": "/images/captacao-caminho-artes.webp",
+    "srcSet": "/images/captacao-caminho-artes-w640.webp 640w, /images/captacao-caminho-artes-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAgCdASoPABQAPzmIu1Q/qSYjMAgD8CcJZwDKADCfAAD+w84XNtBmd57CeayV5LQPeMJAAAA="
+  },
+  {
+    "id": "cliente-piolho-caligra-escada",
+    "src": "/images/cliente-piolho-caligra-escada.webp",
+    "srcSet": "/images/cliente-piolho-caligra-escada-w640.webp 640w, /images/cliente-piolho-caligra-escada-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAwCdASoPABQAPzmGuVOvKSWisAgB4CcJYwCdMvIEagAA/uhf6uMTT8vDo2VsPLwAAA=="
+  },
+  {
+    "id": "grafite-academia",
+    "src": "/images/grafite-academia.webp",
+    "srcSet": "/images/grafite-academia-w640.webp 640w, /images/grafite-academia-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoPABQAPzmIuVQ0qSWjMAgCkCcJZwDLLC2xAAD+4RUOLOd3UAlioQAA"
+  },
+  {
+    "id": "grafite-escrita",
+    "src": "/images/grafite-escrita.webp",
+    "srcSet": "/images/grafite-escrita-w640.webp 640w",
+    "width": 720,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoLABQAPzmGulQ/qSWjMAgD8CcJZwCo9C1yAAD94DTv8ZsXJdC6Vho9uAA="
+  },
+  {
+    "id": "grafite-estudio",
+    "src": "/images/grafite-estudio.webp",
+    "srcSet": "/images/grafite-estudio-w640.webp 640w, /images/grafite-estudio-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABwAwCdASoPABQAPzmMvlU/qaajMAgD8CcJZwDG9C0g+XC+L+gA/uVpHUb4XFswpk/P/0AA"
+  },
+  {
+    "id": "grafite-studio3",
+    "src": "/images/grafite-studio3.webp",
+    "srcSet": "/images/grafite-studio3-w640.webp 640w, /images/grafite-studio3-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAgCdASoPABQAPzmEuVO+qKWisAgD0CcJZwAAfKAAAP7qiq0gR9f1CbH9jWYvvMJeAAAA"
+  },
+  {
+    "id": "logo-tipo2",
+    "src": "/images/logo-tipo2.webp",
+    "srcSet": "/images/logo-tipo2-w640.webp 640w, /images/logo-tipo2-w750.webp 750w",
+    "width": 889,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoOABQAPzmGuVOvKSWisAgB4CcJaQAAeyAA/u7TByAAAA=="
+  },
+  {
+    "id": "logo-trapp",
+    "src": "/images/logo-trapp.webp",
+    "srcSet": "/images/logo-trapp-w640.webp 640w, /images/logo-trapp-w750.webp 750w, /images/logo-trapp-w1080.webp 1080w, /images/logo-trapp-w1200.webp 1200w",
+    "width": 1280,
+    "height": 889,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAQAwCdASoUAA4APzmGuVOvKSWisAgB4CcJYwCdMoAEagAA/uzvtcF15D6FjzVNQAA="
+  },
+  {
+    "id": "logo3-1",
+    "src": "/images/logo3-1.webp",
+    "srcSet": "/images/logo3-1-w640.webp 640w, /images/logo3-1-w750.webp 750w",
+    "width": 889,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoOABQAPzmGuVQvKSWjMAgB4CcJaQAAeyAA/u7S8wAAAA=="
+  },
+  {
+    "id": "logo3",
+    "src": "/images/logo3.webp",
+    "srcSet": "/images/logo3-w640.webp 640w, /images/logo3-w750.webp 750w",
+    "width": 889,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoOABQAPzmGuVOvKSWisAgB4CcJaQAAeyAA/u7TByAAAA=="
+  },
+  {
+    "id": "logo4",
+    "src": "/images/logo4.webp",
+    "srcSet": "",
+    "width": 591,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoJABQAPzmGuVQvKSWjMAgB4CcJaQAAeyAA/u7+xwAAAA=="
+  },
+  {
+    "id": "processo-arte",
+    "src": "/images/processo-arte.webp",
+    "srcSet": "/images/processo-arte-w640.webp 640w, /images/processo-arte-w750.webp 750w, /images/processo-arte-w1080.webp 1080w, /images/processo-arte-w1200.webp 1200w",
+    "width": 1280,
+    "height": 853,
+    "blurhash": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAwCdASoUAA0APzmIulO+qSWisAgD0CcJZQAAibLWXUQA/f2EHjXeqC4WmN9kY4AAAA=="
+  },
+  {
+    "id": "processo-caligra-tela",
+    "src": "/images/processo-caligra-tela.webp",
+    "srcSet": "",
+    "width": 588,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAgCdASoJABQAPzmIulQ+qSWjMAgD0CcJaQAAfKAAAP7bB6lwzXN4ZbO4/SuyAAA="
+  },
+  {
+    "id": "processo-caminho-artes",
+    "src": "/images/processo-caminho-artes.webp",
+    "srcSet": "/images/processo-caminho-artes-w640.webp 640w, /images/processo-caminho-artes-w750.webp 750w",
+    "width": 853,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAgCdASoNABQAPzmGuVO+qSWisAgD0CcJZQAAhAwAAP7Jtm6m3mIJUHtk7xAAAAA="
+  },
+  {
+    "id": "processo-caminho-das-artes",
+    "src": "/images/processo-caminho-das-artes.webp",
+    "srcSet": "/images/processo-caminho-das-artes-w640.webp 640w, /images/processo-caminho-das-artes-w750.webp 750w",
+    "width": 853,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAgCdASoNABQAPzmGulQ/qSWjMAgD8CcJZQAAim4AAP7ipvsnfDyvVYBZc2j75IAAAA=="
+  },
+  {
+    "id": "processo-caminho-das-artes3",
+    "src": "/images/processo-caminho-das-artes3.webp",
+    "srcSet": "/images/processo-caminho-das-artes3-w640.webp 640w, /images/processo-caminho-das-artes3-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAgCdASoPABQAPzmIulQ/qSWjMAgD8CcJZwCsAEMiAAD8etFO6qnmfKR6vg5ZlEPF5fdakgAAAA=="
+  },
+  {
+    "id": "processo-grafite-academia",
+    "src": "/images/processo-grafite-academia.webp",
+    "srcSet": "/images/processo-grafite-academia-w640.webp 640w, /images/processo-grafite-academia-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoPABQAPzmEuVO0qKWisAgCkCcJZQC/ODBsAAD+1aEh2RDKBs5H9xJQAAA="
+  },
+  {
+    "id": "processo-tela-caligra",
+    "src": "/images/processo-tela-caligra.webp",
+    "srcSet": "/images/processo-tela-caligra-w640.webp 640w",
+    "width": 704,
+    "height": 1228,
+    "blurhash": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAgCdASoMABQAPzmGulQ+qSWkMAgD0CcJZwAAfKAAAP7qGd6zkex0CAA="
+  },
+  {
+    "id": "processo-tucano-sinners",
+    "src": "/images/processo-tucano-sinners.webp",
+    "srcSet": "/images/processo-tucano-sinners-w640.webp 640w, /images/processo-tucano-sinners-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAwCdASoPABQAPzmGvFQ+qSYjMAgD0CcJZwDG9C0cS+TSXVIAAP7qGu6cdjbqYNG4KYSAAAA="
+  },
+  {
+    "id": "processo-tucano-sinners2",
+    "src": "/images/processo-tucano-sinners2.webp",
+    "srcSet": "/images/processo-tucano-sinners2-w640.webp 640w, /images/processo-tucano-sinners2-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAwCdASoPABQAPzmIulQ/qSWjMAgD8CcJZQDA3C0PkRiVTQAA/uZOf8EjThG/0bwIAA=="
+  },
+  {
+    "id": "processo-tucano-sinners3",
+    "src": "/images/processo-tucano-sinners3.webp",
+    "srcSet": "/images/processo-tucano-sinners3-w640.webp 640w",
+    "width": 720,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAgCdASoLABQAPzmGulO0qSWisAgCkCcJZQAAfXwAAP5GzgaVoQlgQAgwAA=="
+  },
+  {
+    "id": "processo2-caminho-artes",
+    "src": "/images/processo2-caminho-artes.webp",
+    "srcSet": "/images/processo2-caminho-artes-w640.webp 640w, /images/processo2-caminho-artes-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAgCdASoPABQAPzmGulQ/qSW1MAgD8CcJZQAAfXwAAP7KmZSEkFhz96uXwpGAAAA="
+  },
+  {
+    "id": "quadro-parede-caligrafite",
+    "src": "/images/quadro-parede-caligrafite.webp",
+    "srcSet": "/images/quadro-parede-caligrafite-w640.webp 640w, /images/quadro-parede-caligrafite-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAgCdASoPABQAPzmGuVQvKSWjMAgB4CcJaQAAeyAA/utKMLIYgEAA"
+  },
+  {
+    "id": "quadro-parede-caligrafrite",
+    "src": "/images/quadro-parede-caligrafrite.webp",
+    "srcSet": "/images/quadro-parede-caligrafrite-w640.webp 640w, /images/quadro-parede-caligrafrite-w750.webp 750w",
+    "width": 960,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoPABQAPzmIu1QvKSYssAgB4CcJZQDDNDchAAD+f9BSOF7i6X7KpAAA"
+  },
+  {
+    "id": "ruan-trapp3x4",
+    "src": "/images/ruan-trapp3x4.webp",
+    "srcSet": "/images/ruan-trapp3x4-w640.webp 640w",
+    "width": 720,
+    "height": 1280,
+    "blurhash": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABQAwCdASoLABQAPzleyV8vI6qmGAHgJwlpAABc4d5YFvI/AAD+0vuPIyfbn+AAAAA="
+  }
+]
